@@ -1,10 +1,12 @@
 import "./App.css";
-import Message from "./Message";
+import ListGroup from "./Components/ListGroup";
+import Message from "./Components/Message";
 
 function App() {
   return (
     <div className="App">
       <Message />
+      <ListGroup />
     </div>
   );
 }

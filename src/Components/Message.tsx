@@ -1,7 +1,7 @@
 import React from "react";
 
 const Message = () => {
-  return <div>Hello "MOTHER FUCKER"</div>;
+  return <div className="bg-blue-500">Hello "MOTHER FUCKER"</div>;
 };
 
 export default Message;
