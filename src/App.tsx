@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <Message />
       <ListGroup />
+      <ListGroup />
     </div>
   );
 }
